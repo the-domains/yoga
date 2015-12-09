@@ -1,0 +1,28 @@
+name: yoga
+favicon: null
+layout_spectrum: 0.8334410518873483
+typography_spectrum: 0.53309127362445
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.22249856451526284
+  lightness: 0.6792438477277756
+  saturation: 0.6270062276162207
+  rhythmicContrast: 0.3403100685682148
+purpose: []
